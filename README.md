@@ -1,3 +1,7 @@
+## MealFinder
+
+Simple practice project using React hooks, TypeScript, and [Meal DB API](https://www.themealdb.com/api.php).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
